@@ -6,7 +6,11 @@
       "properties": {
         "state_code": 1,
         "state_name": "Edo. Mex. y CDMX",
-        "id": 3
+        "id": 3 ,
+
+"fill-color": "red",
+        "line-color":"red",
+        "stroke-width": 50 
       },
       "geometry": {
         "coordinates": [
