@@ -17860,13 +17860,21 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sonora" },
+      "properties": { "Name": "Sonora" ,
+           "marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-109.927516, 27.4975673], "type": "Point" },
       "id": 77
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sinaloa" },
+      "properties": { "Name": "Sinaloa" ,
+    "marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-107.4782676, 24.7809816],
         "type": "Point"
@@ -17875,7 +17883,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Oaxaca" },
+      "properties": { "Name": "Oaxaca" ,
+"marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.7826924, 17.7957056], "type": "Point" },
       "id": 79
     },
@@ -18243,7 +18255,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guanajuato" },
+      "properties": { "Name": "Guanajuato" ,
+"marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-100.8012781, 20.5515138],
         "type": "Point"
@@ -18252,17 +18268,22 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Puebla" },
+      "properties": { "Name": "Puebla" ,
+"marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000"
+        },
       "geometry": { "coordinates": [-97.957465, 18.968469], "type": "Point" },
       "id": 131
     },
     {
       "type": "Feature",
       "properties": { "Name": "Hidalgo" ,
-       "icon": "diamond",
-        "label": "Large diamond",
-        "size": "large",
-        "marker-color": "#FF0000"},
+       "marker-shape": "pin",
+        "marker-size": "medium",
+            "marker-symbol": "bus",
+                    "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 132
     }
