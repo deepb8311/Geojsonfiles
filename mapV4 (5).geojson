@@ -18233,9 +18233,8 @@
     {
       "type": "Feature",
       "properties": { "Name": "Hidalgo" ,
-        "point_type":"circle",
-         "radius":3062.5599801672683 ,
-             "marker-color": "#FF0000" },
+        "marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 132
     }
