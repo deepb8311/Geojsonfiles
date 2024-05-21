@@ -17536,13 +17536,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guerrero" },
+      "properties": { "Name": "Guerrero" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.5331145, 18.362484], "type": "Point" },
       "id": 32
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Jalisco" },
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-103.4691276, 20.7125605],
         "type": "Point"
@@ -17551,13 +17555,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Coatzacoalcos" },
+      "properties": { "Name": "Coatzacoalcos",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-94.4201366, 18.1390408], "type": "Point" },
       "id": 16
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Coahuila" },
+      "properties": { "Name": "Coahuila" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-101.4566469, 26.9243493],
         "type": "Point"
@@ -17566,7 +17574,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guanajuato" },
+      "properties": { "Name": "Guanajuato" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-100.7453714, 20.9172968],
         "type": "Point"
@@ -17575,61 +17585,81 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tuxtepec" },
+      "properties": { "Name": "Tuxtepec" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-96.1648146, 18.0351038], "type": "Point" },
       "id": 18
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Pta. Tamuín" },
+      "properties": { "Name": "Pta. Tamuín" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.866824, 22.046562], "type": "Point" },
       "id": 22
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Pta. Mérida" },
+      "properties": { "Name": "Pta. Mérida" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-89.6637478, 20.940101], "type": "Point" },
       "id": 32
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Veracruz" },
+      "properties": { "Name": "Veracruz" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-96.2425061, 19.1661299], "type": "Point" },
       "id": 40
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Michoacán" },
+      "properties": { "Name": "Michoacán" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-100.4424829, 19.88531], "type": "Point" },
       "id": 41
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Oaxaca" },
+      "properties": { "Name": "Oaxaca" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-96.7690608, 17.1285319], "type": "Point" },
       "id": 42
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tlaxcala" },
+      "properties": { "Name": "Tlaxcala",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-98.1378124, 19.4205162], "type": "Point" },
       "id": 43
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Toluca" },
+      "properties": { "Name": "Toluca" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.6577733, 19.3295855], "type": "Point" },
       "id": 0
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.1654056, 19.4833009], "type": "Point" },
       "id": 45
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Saltillo" },
+      "properties": { "Name": "Saltillo" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-101.0142062, 25.4199217],
         "type": "Point"
@@ -17638,19 +17668,25 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Morelos" },
+      "properties": { "Name": "Morelos" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.9097534, 18.7493262], "type": "Point" },
       "id": 47
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tehuacán" },
+      "properties": { "Name": "Tehuacán" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-97.4002256, 18.451439], "type": "Point" },
       "id": 24
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Jalisco" },
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-103.2324774, 20.6631853],
         "type": "Point"
@@ -17659,37 +17695,49 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Puebla" },
+      "properties": { "Name": "Puebla" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.1896117, 19.0787688], "type": "Point" },
       "id": 50
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Quintana Roo" },
+      "properties": { "Name": "Quintana Roo",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-87.1308648, 20.571049], "type": "Point" },
       "id": 51
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Chiapas" },
+      "properties": { "Name": "Chiapas" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-92.1195282, 16.2221927], "type": "Point" },
       "id": 52
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Atlacomulco" },
+      "properties": { "Name": "Atlacomulco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.866824, 22.046562], "type": "Point" },
       "id": 29
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.9008148, 19.7835899], "type": "Point" },
       "id": 54
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Baja California" },
+      "properties": { "Name": "Baja California" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-116.9280011, 32.4629261],
         "type": "Point"
@@ -17698,7 +17746,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Baja California" },
+      "properties": { "Name": "Baja California" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-116.5847691, 31.8466418],
         "type": "Point"
@@ -17707,7 +17757,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Baja California Sur" },
+      "properties": { "Name": "Baja California Sur",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-110.3333867, 24.2629273],
         "type": "Point"
@@ -17716,7 +17768,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sinaloa" },
+      "properties": { "Name": "Sinaloa" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-109.0113882, 25.7439927],
         "type": "Point"
@@ -17725,7 +17779,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sonora" },
+      "properties": { "Name": "Sonora",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-110.8232396, 28.9314424],
         "type": "Point"
@@ -17734,19 +17790,25 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Durango" },
+      "properties": { "Name": "Durango" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-100.952868, 22.1342857], "type": "Point" },
       "id": 22
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Durango" },
+      "properties": { "Name": "Durango" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-104.518033, 24.163787], "type": "Point" },
       "id": 61
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Santa Catarina" },
+      "properties": { "Name": "Santa Catarina" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-103.3781524, 19.6712659],
         "type": "Point"
@@ -17755,13 +17817,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.9659408, 19.3241392], "type": "Point" },
       "id": 63
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guanajuato" },
+      "properties": { "Name": "Guanajuato" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-101.2540067, 20.6124331],
         "type": "Point"
@@ -17770,7 +17836,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sonora" },
+      "properties": { "Name": "Sonora" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-109.4425168, 27.0823897],
         "type": "Point"
@@ -17779,13 +17847,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Querétaro" },
+      "properties": { "Name": "Querétaro",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-89.6637478, 20.940101], "type": "Point" },
       "id": 31
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Jalisco" },
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-103.3413281, 20.6068445],
         "type": "Point"
@@ -17794,67 +17866,89 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Querétaro" },
+      "properties": { "Name": "Querétaro" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-100.293133, 20.572046], "type": "Point" },
       "id": 68
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tuxtla Gutiérrez" },
+      "properties": { "Name": "Tuxtla Gutiérrez",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.957465, 18.968469], "type": "Point" },
       "id": 24
     },
     {
       "type": "Feature",
-      "properties": { "Name": "San Cristóbal" },
+      "properties": { "Name": "San Cristóbal" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.6867558, 20.3832951], "type": "Point" },
       "id": 21
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Chiapas" },
+      "properties": { "Name": "Chiapas",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-93.1791069, 16.7602046], "type": "Point" },
       "id": 71
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Chiapas" },
+      "properties": { "Name": "Chiapas",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-92.6595572, 16.7424254], "type": "Point" },
       "id": 72
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guerrero" },
+      "properties": { "Name": "Guerrero",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.478333, 17.5112949], "type": "Point" },
       "id": 73
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-98.89814, 19.525562], "type": "Point" },
       "id": 74
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Morelos" },
+      "properties": { "Name": "Morelos",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.1718954, 18.9138315], "type": "Point" },
       "id": 75
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Culiacán" },
+      "properties": { "Name": "Culiacán" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 15
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sonora" },
+      "properties": { "Name": "Sonora" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-109.927516, 27.4975673], "type": "Point" },
       "id": 77
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sinaloa" },
+      "properties": { "Name": "Sinaloa" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-107.4782676, 24.7809816],
         "type": "Point"
@@ -17863,37 +17957,49 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Oaxaca" },
+      "properties": { "Name": "Oaxaca" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.7826924, 17.7957056], "type": "Point" },
       "id": 79
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Chiapas" },
+      "properties": { "Name": "Chiapas" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-92.0311831, 17.5791986], "type": "Point" },
       "id": 80
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Yucatán" },
+      "properties": { "Name": "Yucatán" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-89.6637478, 20.940101], "type": "Point" },
       "id": 81
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Pta. Torreón" },
+      "properties": { "Name": "Pta. Torreón",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-100.952868, 22.1342857], "type": "Point" },
       "id": 19
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Oaxaca" },
+      "properties": { "Name": "Oaxaca" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-96.1648146, 18.0351038], "type": "Point" },
       "id": 83
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Colima" },
+      "properties": { "Name": "Colima" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-103.7216514, 19.2293612],
         "type": "Point"
@@ -17902,19 +18008,25 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Veracruz N" },
+      "properties": { "Name": "Veracruz N" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-97.4074316, 20.6361106], "type": "Point" },
       "id": 85
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Veracruz" },
+      "properties": { "Name": "Veracruz",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.1049352, 18.8380153], "type": "Point" },
       "id": 86
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tapachula" },
+      "properties": { "Name": "Tapachula" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-103.3999332, 25.4908844],
         "type": "Point"
@@ -17923,31 +18035,41 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Morelia" },
+      "properties": { "Name": "Morelia",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.9200129, 22.2212026], "type": "Point" },
       "id": 29
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Nuevo León" },
+      "properties": { "Name": "Nuevo León" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-100.2992515, 25.700466], "type": "Point" },
       "id": 89
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Veracruz" },
+      "properties": { "Name": "Veracruz" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-96.8606982, 19.5019657], "type": "Point" },
       "id": 90
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.0784081, 19.3755534], "type": "Point" },
       "id": 91
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Veracruz N" },
+      "properties": { "Name": "Veracruz N" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-97.9200129, 22.2212026], "type": "Point" },
       "id": 92
     },
@@ -17959,7 +18081,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Jalisco" },
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-103.3781524, 19.6712659],
         "type": "Point"
@@ -17968,25 +18092,33 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Michoacán" },
+      "properties": { "Name": "Michoacán",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-101.130216, 19.736456], "type": "Point" },
       "id": 95
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Puebla" },
+      "properties": { "Name": "Puebla" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-97.4002256, 18.451439], "type": "Point" },
       "id": 96
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Tabasco" },
+      "properties": { "Name": "Tabasco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-92.9866003, 17.9876086], "type": "Point" },
       "id": 97
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sinaloa" },
+      "properties": { "Name": "Sinaloa" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-109.0612423, 25.5872003],
         "type": "Point"
@@ -17995,7 +18127,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Baja California" },
+      "properties": { "Name": "Baja California",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-115.3977517, 32.5858504],
         "type": "Point"
@@ -18004,19 +18138,25 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "properties": { "Name": "Edo. Mex. y CDMX" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.237198, 19.4650212], "type": "Point" },
       "id": 100
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Hidalgo" },
+      "properties": { "Name": "Hidalgo" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-98.7174406, 20.084777], "type": "Point" },
       "id": 101
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Nayarit" },
+      "properties": { "Name": "Nayarit" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-104.8765058, 21.4875365],
         "type": "Point"
@@ -18025,7 +18165,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Coahuila" },
+      "properties": { "Name": "Coahuila" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-101.0142062, 25.4199217],
         "type": "Point"
@@ -18034,7 +18176,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Coahuila" },
+      "properties": { "Name": "Coahuila",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": {
         "coordinates": [-103.3999332, 25.4908844],
         "type": "Point"
@@ -18043,13 +18187,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guerrero" },
+      "properties": { "Name": "Guerrero" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.7999423, 16.8524745], "type": "Point" },
       "id": 105
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Sinaloa" },
+      "properties": { "Name": "Sinaloa" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-106.4038455, 23.2169306],
         "type": "Point"
@@ -18058,13 +18206,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Celaya" },
+      "properties": { "Name": "Celaya" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-94.4201366, 18.1390408], "type": "Point" },
       "id": 31
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Reynosa" },
+      "properties": { "Name": "Reynosa" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-104.3918269, 21.0371963],
         "type": "Point"
@@ -18073,13 +18225,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guasave" },
+      "properties": { "Name": "Guasave" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-94.4201366, 18.1390408], "type": "Point" },
       "id": 33
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Cd. Victoria" },
+      "properties": { "Name": "Cd. Victoria" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-101.6677696, 21.0853949],
         "type": "Point"
@@ -18088,7 +18244,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guanajuato" },
+      "properties": { "Name": "Guanajuato" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-101.081426, 20.528622], "type": "Point" },
       "id": 111
     },
@@ -18163,7 +18321,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Hidalgo" },
+      "properties": { "Name": "Hidalgo" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.6867558, 20.3832951], "type": "Point" },
       "id": 122
     },
@@ -18187,7 +18347,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Jalisco" },
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-102.7498829, 20.8210431],
         "type": "Point"
@@ -18196,19 +18358,25 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Pta. Hidalgo" },
+      "properties": { "Name": "Pta. Hidalgo" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-97.957465, 18.968469], "type": "Point" },
       "id": 33
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guerrero" },
+      "properties": { "Name": "Guerrero",
+"marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-98.6098794, 17.5402729], "type": "Point" },
       "id": 128
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Nayarit" },
+      "properties": { "Name": "Nayarit" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-104.3918269, 21.0371963],
         "type": "Point"
@@ -18217,7 +18385,9 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Guanajuato" },
+      "properties": { "Name": "Guanajuato" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": {
         "coordinates": [-100.8012781, 20.5515138],
         "type": "Point"
@@ -18226,13 +18396,17 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Puebla" },
+      "properties": { "Name": "Puebla" ,
+"marker-symbol": "circle",
+         "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-97.957465, 18.968469], "type": "Point" },
       "id": 131
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Hidalgo" },
+      "properties": { "Name": "Hidalgo" ,
+        "marker-symbol": "circle",
+         "marker-color": "#FF0000" },
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 132
     }
