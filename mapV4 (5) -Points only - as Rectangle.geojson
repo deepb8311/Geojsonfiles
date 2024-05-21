@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Name": "Guerrero" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-99.5331145, 18.362484], "type": "Point" },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Jalisco" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": {
+        "coordinates": [-103.4691276, 20.7125605],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Coatzacoalcos" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-94.4201366, 18.1390408], "type": "Point" },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Coahuila" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": {
+        "coordinates": [-101.4566469, 26.9243493],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Guanajuato",
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"   },
+      "geometry": {
+        "coordinates": [-100.7453714, 20.9172968],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Tuxtepec" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-96.1648146, 18.0351038], "type": "Point" },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Pta. Tamuín" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-98.866824, 22.046562], "type": "Point" },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Pta. Mérida" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-89.6637478, 20.940101], "type": "Point" },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Veracruz" ,
+"marker-symbol": "square", 
+        "fillColor": "#0000FF"  },
+      "geometry": { "coordinates": [-96.2425061, 19.1661299], "type": "Point" },
+      "id": 40
+    }
+
+]
+}
