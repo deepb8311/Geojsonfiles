@@ -18232,7 +18232,11 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Hidalgo" },
+      "properties": { "Name": "Hidalgo" ,
+       "icon": "diamond",
+        "label": "Large diamond",
+        "size": "large",
+        "marker-color": "#FF0000" // Red color},
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 132
     }
