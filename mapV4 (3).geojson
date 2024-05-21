@@ -6,11 +6,7 @@
       "properties": {
         "state_code": 1,
         "state_name": "Edo. Mex. y CDMX",
-        "id": 3 ,
-
-"fill-color": "red",
-        "line-color":"red",
-        "stroke-width": 50 
+        "id": 3
       },
       "geometry": {
         "coordinates": [
@@ -18263,11 +18259,10 @@
     {
       "type": "Feature",
       "properties": { "Name": "Hidalgo" ,
-
-      "icon": "diamond",
+       "icon": "diamond",
         "label": "Large diamond",
         "size": "large",
-        "marker-color": "#FF0000" // Red color},
+        "marker-color": "#FF0000"},
       "geometry": { "coordinates": [-99.214166, 20.0006029], "type": "Point" },
       "id": 132
     }
