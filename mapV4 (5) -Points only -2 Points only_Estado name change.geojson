@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Name": "Iguala" ,
+        "icon" :"bus"},
+      "geometry": { "coordinates": [-99.5331145, 18.362484], "type": "Point" },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Zapopan" },
+      "geometry": {
+        "coordinates": [-103.4691276, 20.7125605],
+        "type": "Point"
+      },
+      "id": 33
+    }
+
+]
+
+}
