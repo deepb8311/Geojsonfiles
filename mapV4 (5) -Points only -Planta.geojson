@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Name": "Guerrero" },
+      "geometry": { "coordinates": [-99.5331145, 18.362484], "type": "Point" },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Jalisco" },
+      "geometry": {
+        "coordinates": [-103.4691276, 20.7125605],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Coatzacoalcos" },
+      "geometry": { "coordinates": [-94.4201366, 18.1390408], "type": "Point" },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Coahuila" },
+      "geometry": {
+        "coordinates": [-101.4566469, 26.9243493],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Guanajuato" },
+      "geometry": {
+        "coordinates": [-100.7453714, 20.9172968],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Tuxtepec" },
+      "geometry": { "coordinates": [-96.1648146, 18.0351038], "type": "Point" },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Pta. Tamuín" },
+      "geometry": { "coordinates": [-98.866824, 22.046562], "type": "Point" },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Pta. Mérida" },
+      "geometry": { "coordinates": [-89.6637478, 20.940101], "type": "Point" },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Veracruz" },
+      "geometry": { "coordinates": [-96.2425061, 19.1661299], "type": "Point" },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Michoacán" },
+      "geometry": { "coordinates": [-100.4424829, 19.88531], "type": "Point" },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Oaxaca" },
+      "geometry": { "coordinates": [-96.7690608, 17.1285319], "type": "Point" },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Tlaxcala" },
+      "geometry": { "coordinates": [-98.1378124, 19.4205162], "type": "Point" },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Toluca" },
+      "geometry": { "coordinates": [-99.6577733, 19.3295855], "type": "Point" },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Edo. Mex. y CDMX" },
+      "geometry": { "coordinates": [-99.1654056, 19.4833009], "type": "Point" },
+      "id": 45
+    }
+]
+
+}
