@@ -431,7 +431,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 12, "state_name": "Guerrero", "id": 2 },
+      "properties": { "state_code": 12, "state_name": "Guerrero ", "id": 2 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -957,7 +957,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 17, "state_name": "Morelos", "id": 4 },
+      "properties": { "state_code": 17, "state_name": "Morelos ", "id": 4 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1081,7 +1081,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 25, "state_name": "Sinaloa", "id": 5 },
+      "properties": { "state_code": 25, "state_name": "Sinaloa ", "id": 5 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1588,7 +1588,7 @@
       "type": "Feature",
       "properties": {
         "state_code": "02",
-        "state_name": "Baja California",
+        "state_name": "Baja California ",
         "id": 6
       },
       "geometry": {
@@ -2542,7 +2542,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 26, "state_name": "Sonora", "id": 7 },
+      "properties": { "state_code": 26, "state_name": "Sonora ", "id": 7 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3382,7 +3382,7 @@
       "type": "Feature",
       "properties": {
         "state_code": "03",
-        "state_name": "Baja California Sur",
+        "state_name": "Baja California Sur ",
         "id": 8
       },
       "geometry": {
@@ -4342,7 +4342,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 32, "state_name": "Zacatecas_EST", "id": 9 },
+      "properties": { "state_code": 32, "state_name": "Zacatecas ", "id": 9 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5258,7 +5258,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 10, "state_name": "Durango_EST", "id": 10 },
+      "properties": { "state_code": 10, "state_name": "Durango ", "id": 10 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
