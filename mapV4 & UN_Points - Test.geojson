@@ -8026,7 +8026,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 14, "state_name": "Jalisco ", "id": 15 },
+      "properties": { "state_code": 14, "state_name": "Jalisco", "id": 15 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
