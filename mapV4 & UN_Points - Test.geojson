@@ -16211,7 +16211,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": "04", "state_name": "Campeche_EST", "id": 31 },
+      "properties": { "state_code": "04", "state_name": "Campeche", "id": 31 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
