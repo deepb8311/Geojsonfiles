@@ -414,6 +414,7 @@
             [-99.96523, 20.201158],
             [-99.986376, 20.256701],
             [-99.986464, 20.257068],
+
             [-99.977031, 20.272375],
             [-99.976814, 20.272257],
             [-99.951032, 20.216137],
@@ -8026,7 +8027,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 14, "state_name": "Jalisco", "id": 15 },
+      "properties": { "state_code": 14, "state_name": "Jalisco ", "id": 15 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15980,7 +15981,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 31, "state_name": "Yucatán", "id": 30 },
+      "properties": { "state_code": 31, "state_name": "Yucatán ", "id": 30 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16211,7 +16212,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": "04", "state_name": "Campeche", "id": 31 },
+      "properties": { "state_code": "04", "state_name": "Campeche ", "id": 31 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16527,7 +16528,7 @@
       "type": "Feature",
       "properties": {
         "state_code": 23,
-        "state_name": "Quintana Roo",
+        "state_name": "Quintana Roo ",
         "id": 32
       },
       "geometry": {
