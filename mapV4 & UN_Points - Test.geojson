@@ -4342,7 +4342,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 32, "state_name": "Zacatecas", "id": 9 },
+      "properties": { "state_code": 32, "state_name": "Zacatecas_EST", "id": 9 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5258,7 +5258,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 10, "state_name": "Durango", "id": 10 },
+      "properties": { "state_code": 10, "state_name": "Durango_EST", "id": 10 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11370,7 +11370,7 @@
       "type": "Feature",
       "properties": {
         "state_code": "01",
-        "state_name": "Aguascalientes",
+        "state_name": "Aguascalientes_EST",
         "id": 20
       },
       "geometry": {
@@ -11499,7 +11499,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 22, "state_name": "Querétaro", "id": 21 },
+      "properties": { "state_code": 22, "state_name": "Querétaro_EST", "id": 21 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11788,7 +11788,7 @@
       "type": "Feature",
       "properties": {
         "state_code": 24,
-        "state_name": "San Luis Potosí",
+        "state_name": "San Luis Potosí_EST",
         "id": 22
       },
       "geometry": {
@@ -13826,7 +13826,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": 33, "state_name": "Veracruz", "id": 33 },
+      "properties": { "state_code": 33, "state_name": "Veracruz_EST", "id": 33 },
       "geometry": {
         "coordinates": [
           [
@@ -16211,7 +16211,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "state_code": "04", "state_name": "Campeche", "id": 31 },
+      "properties": { "state_code": "04", "state_name": "Campeche_EST", "id": 31 },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
