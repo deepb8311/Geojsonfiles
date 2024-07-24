@@ -1586,7 +1586,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
+      "properties": {"color": "red",
         "state_code": "02",
         "state_name": "Baja California",
         "id": 6
